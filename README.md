@@ -1,5 +1,7 @@
 # 🚗 Parking Space Detection System
 
+![demo-gif](park.gif)  
+
 A computer vision-based parking space detection system that automatically identifies occupied and free parking spots in real-time using OpenCV and Python.
 
 ## 📋 Overview
